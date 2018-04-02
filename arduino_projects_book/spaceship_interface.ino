@@ -1,3 +1,8 @@
+/**
+ * Code to create a spaceship like interface
+ * When a switch is pressed the two red LEDs will alternate flashing
+ * When a switch is not pressed the green LED will stay on constant
+ */
 int switchState = 0;
 void setup() {
   // put your setup code here, to run once:
